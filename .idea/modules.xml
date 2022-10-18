@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yuan-fullstack/yuan-fullstack.iml" filepath="$PROJECT_DIR$/yuan-fullstack/yuan-fullstack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuan-fullstack/yuan-fullstack-backend/yuan-fullstack-backend.iml" filepath="$PROJECT_DIR$/yuan-fullstack/yuan-fullstack-backend/yuan-fullstack-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yuan-share.iml" filepath="$PROJECT_DIR$/.idea/yuan-share.iml" />
+    </modules>
+  </component>
+</project>
